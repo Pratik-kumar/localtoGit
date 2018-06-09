@@ -1,0 +1,7 @@
+C:\Users\PRATIK-KR\Documents\Visual Studio 2017\Projects\LocalToGitCheck\LocalToGitCheck\bin\Debug\LocalToGitCheck.exe.config
+C:\Users\PRATIK-KR\Documents\Visual Studio 2017\Projects\LocalToGitCheck\LocalToGitCheck\bin\Debug\LocalToGitCheck.exe
+C:\Users\PRATIK-KR\Documents\Visual Studio 2017\Projects\LocalToGitCheck\LocalToGitCheck\bin\Debug\LocalToGitCheck.pdb
+C:\Users\PRATIK-KR\Documents\Visual Studio 2017\Projects\LocalToGitCheck\LocalToGitCheck\obj\Debug\LocalToGitCheck.csprojAssemblyReference.cache
+C:\Users\PRATIK-KR\Documents\Visual Studio 2017\Projects\LocalToGitCheck\LocalToGitCheck\obj\Debug\LocalToGitCheck.csproj.CoreCompileInputs.cache
+C:\Users\PRATIK-KR\Documents\Visual Studio 2017\Projects\LocalToGitCheck\LocalToGitCheck\obj\Debug\LocalToGitCheck.exe
+C:\Users\PRATIK-KR\Documents\Visual Studio 2017\Projects\LocalToGitCheck\LocalToGitCheck\obj\Debug\LocalToGitCheck.pdb
